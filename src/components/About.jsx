@@ -1,5 +1,4 @@
 import React from "react";
-// import Tilt from "react-tilt";
 const {Tilt} = require("react-tilt");
 import { motion } from "framer-motion";
 
