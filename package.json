@@ -7,7 +7,7 @@
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview",
-    "postinstall": "npm install --legacy-peer-deps react-lottie @react-three/fiber @react-three/drei maath react-tilt react-vertical-timeline-component @emailjs/browser framer-motion react-router-dom"
+    "postinstall": "npm install --legacy-peer-deps react-lottie @react-three/fiber @react-three/drei maath react-tilt react-vertical-timeline-component @emailjs/browser framer-motion react-router-dom react-typical"
   },
   "dependencies": {
     "@emailjs/browser": "^3.11.0",
@@ -20,6 +20,7 @@
     "react-dom": "^18.2.0",
     "react-router-dom": "^6.10.0",
     "react-spring": "^9.7.1",
+    "react-tilt": "^1.0.2",
     "react-use": "^17.4.0",
     "react-vertical-timeline-component": "^3.6.0",
     "tailwind-styled-components": "^2.2.0",
