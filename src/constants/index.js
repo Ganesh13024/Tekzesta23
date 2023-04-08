@@ -113,7 +113,7 @@ const technologies = [
 const experiences = [
     {
       title: "Registration & Inauguration session",
-      time: "8:30 AM - 10:30 AM",
+      //time: "8:30 AM - 10:30 AM",
       icon: inauguration,
       iconBg: "#E6DEDD",
       venue: "VENUE : Main Hall",
@@ -124,7 +124,7 @@ const experiences = [
     },
     {
       title: "Slide to Success",
-      time: "10:30 AM - 11:30 AM",
+      //time: "10:30 AM - 11:30 AM",
       icon: presentation,
       iconBg: "#383E56",
       venue: "VENUE : Seminar hall - 1",
@@ -135,7 +135,7 @@ const experiences = [
     },
     {
       title: "Null void",
-      time: "11:30 AM - 12:30 PM",
+      //time: "11:30 AM - 12:30 PM",
       icon: reactjs,
       iconBg: "#E6DEDD",
       venue: "VENUE : Computer Lab - 1",
@@ -145,7 +145,7 @@ const experiences = [
     },
     {
       title: "Interface Design",
-      time: "1:30 PM - 2:30 PM",
+      //time: "1:30 PM - 2:30 PM",
       icon: webdesign,
       iconBg: "#383E56",
       venue: "VENUE : Computer Lab - 2",
@@ -156,7 +156,7 @@ const experiences = [
     },
     {
       title: "Techie Buzz",
-      time: "2:30 PM - 03:30 PM",
+      //time: "2:30 PM - 03:30 PM",
       icon: techquiz,
       iconBg: "#E6DEDD",
       venue: "VENUE : Seminar Hall - 2",
@@ -167,7 +167,7 @@ const experiences = [
     },
     {
       title: "Mr. Engineer",
-      time: "3:30 PM - 4:30 PM",
+      //time: "3:30 PM - 4:30 PM",
       icon: mrengineer,
       iconBg: "#383E56",
       venue: "VENUE : Seminar Hall - 2",
@@ -178,7 +178,7 @@ const experiences = [
     },
     {
       title: "Nodezilla",
-      time: "4:30 PM - 05:00 PM",
+      //time: "4:30 PM - 05:00 PM",
       icon: cpuassembling,
       iconBg: "#E6DEDD",
       venue: "VENUE : Computer Lab - 1",
@@ -193,7 +193,7 @@ const experiences = [
 const experiences2=[
   {
     title: "Brain War",
-    time: "10:00 AM - 11:30 AM",
+    //time: "10:00 AM - 11:30 AM",
     icon: logomaking,
     iconBg: "#383E56",
     venue: "VENUE : Seminar Hall - 1",
@@ -204,7 +204,7 @@ const experiences2=[
   },
   {
     title: "Spell Bee",
-    time: "11:30 AM - 12:00 AM",
+    //time: "11:30 AM - 12:00 AM",
     icon: spellbee,
     iconBg: "#E6DEDD",
     venue: "VENUE : Seminar Hall - 1",
@@ -216,20 +216,18 @@ const experiences2=[
   },
   {
     title: "Placard",
-    time: "12:00 PM - 12:45 PM",
+    //time: "12:00 PM - 12:45 PM",
     icon: poster,
     iconBg: "#383E56",
     venue: "VENUE : Computer lab - 1",
     points: [
       "Poster making is the process of creating a visual representation of an idea, message, or concept to communicate to a specific audience.",
-      "Posters may be used for a variety of purposes, such as advertising, promoting an event, raising awareness, or educating the public.",
-      "Effective posters are visually appealing, easily readable, and convey a clear message or call-to-action.",
-      "Design elements such as color, typography, imagery, and composition are important in creating an effective poster.",
+      "It is an art of making people feel attractive to your product or service which is ultimately relies on the content, design, color of the poster."
     ],
   },
   {
     title: "Web Wizard",
-    time: "01:15 PM - 02:00 PM",
+    //time: "01:15 PM - 02:00 PM",
     icon: googling,
     iconBg: "#E6DEDD",
     venue: "VENUE : Computer lab - 1",
@@ -242,7 +240,7 @@ const experiences2=[
   },
   {
     title: "Ready to Rumble",
-    time: "02:00 PM - 03:00 PM",
+    //time: "02:00 PM - 03:00 PM",
     icon: treasure,
     iconBg: "#383E56",
     venue: "VENUE : CSE Department",
@@ -253,7 +251,7 @@ const experiences2=[
   },
   {
     title: "Closing ceremony",
-    time: "03:00 PM - 05:00 PM",
+    //time: "03:00 PM - 05:00 PM",
     icon: closecerm,
     iconBg: "#E6DEDD",
     venue: "VENUE : Seminar Hall - 1",
@@ -263,7 +261,7 @@ const experiences2=[
       "Key achievements and highlights of the event can be acknowledged and celebrated. ",
       "Certificates, awards, or prizes can be presented to recognize outstanding contributions or achievements.",
     ],
-  },
+   },
 ];
 
 const testimonials = [
