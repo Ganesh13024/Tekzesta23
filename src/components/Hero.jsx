@@ -29,12 +29,7 @@ const Hero = () => {
           </h1>
         </div>
       </div>
-<<<<<<< HEAD
-      {/* <ComputersCanvas/> */}
-      <div className='absolute xs:bottom-10 bottom-16 lg:bottom-12 sm:bottom-10 w-full flex justify-center items-center'>
-=======
       <div className='absolute xs:bottom-10 bottom-16 lg:bottom-32 sm:bottom-10 w-full flex justify-center items-center'>
->>>>>>> 091622f4631b2b211c6004a1afc40c0ebb07db36
         <a href='#about'>
           <div className='w-[35px] h-[64px] rounded-3xl border-4 border-secondary flex justify-center items-start p-2'>
             <motion.div

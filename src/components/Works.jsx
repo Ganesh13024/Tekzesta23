@@ -50,13 +50,8 @@ const ProjectCard = ({
           </div>
         </div>
 
-<<<<<<< HEAD
-        <div className='mt-5' onClick={() => window.open(source_code_link, "_blank")}>
-          <h3 className='text-white font-bold text-[24px]'>{name}</h3>
-=======
         <div className='mt-5'>
           <h3 className='text-white font-bold text-[24px]' onClick={() => window.open(source_code_link, "_blank")}>{name}</h3>
->>>>>>> 091622f4631b2b211c6004a1afc40c0ebb07db36
           <p className='mt-2 text-secondary text-[14px]'>{description}</p>
         </div>
 
