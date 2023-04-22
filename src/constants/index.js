@@ -225,9 +225,13 @@ const experiences2=[
     venue: "VENUE : Computer lab - 1",
     points: [
       "Poster making is the process of creating a visual representation of an idea, message, or concept to communicate to a specific audience.",
+<<<<<<< HEAD
       "It is an art making people feel attractive to your product or service which is ultimately relies on the content, design, color of the poster",
       "Topics : Cloud computing, Artificial Intelligence, Internet of Things, 5G Networking, Blockchain, Project Presentation and Other new Technologies",
       "Only Two members allowed for a Team."
+=======
+      "It is an art of making people feel attractive to your product or service which is ultimately relies on the content, design, color of the poster."
+>>>>>>> 091622f4631b2b211c6004a1afc40c0ebb07db36
     ],
   },
   {
@@ -266,7 +270,7 @@ const experiences2=[
       "Key achievements and highlights of the event can be acknowledged and celebrated. ",
       "Certificates, awards, or prizes can be presented to recognize outstanding contributions or achievements.",
     ],
-  },
+   },
 ];
 
 const testimonials = [

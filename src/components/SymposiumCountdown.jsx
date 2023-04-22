@@ -11,13 +11,13 @@ const CountdownTitle = tw.h1`
 `;
 
 const CountdownContainer = tw.div`
-  flex justify-center items-center flex-wrap
+flex justify-center items-center flex-wrap flex-row lg:w-[70%] sm:w-[90%]
 `;
 
 const CountdownUnit = tw.div`
   flex flex-col items-center
   text-center text-gray-800 px-3 py-6 md:px-6 md:py-8 m-2
-  bg-gray-100 rounded-md shadow-md
+  bg-gray-100 rounded-md shadow-md basis-1/3 lg:basis-1/5
 `;
 
 const CountdownValue = tw.div`

@@ -54,8 +54,9 @@ const Contact = () => {
             <ul className="list-disc list-inside text-purple-500 p-4 text-md">
               <li>Attendees must register before a 24-04-2023.</li>
               <li>Attendees may need to pay a fee to attend the symposium.</li>
-              <li>Attendees must provide their personal information for registration purposes.</li>
+              <li>Attendees must provide some necessary information for registration purposes.</li>
               <li>Attendees must follow a set of rules regarding their behavior during the event.</li>
+              <li>Attendees who participates in Technical Events receives Participation Certificate.</li>
             </ul>
           </label>
           <hr></hr>
