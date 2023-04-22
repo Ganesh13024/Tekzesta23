@@ -134,6 +134,8 @@ const experiences = [
       points: [
         "'Slide to Success' is the title of the presentation.",
         "The presentation may include visual aids such as slides or diagrams to help illustrate concepts and ideas.",
+        "Topics are Cloud Computing, Artificial Intelligence, Internet of Things, 5G Networking, Blockchain, Project Presentation, and Other new Technologies",
+        "Two members allowed for a Team"
       ],
     },
     {
@@ -226,8 +228,6 @@ const experiences2=[
     points: [
       "Poster making is the process of creating a visual representation of an idea, message, or concept to communicate to a specific audience.",
       "It is an art of making people feel attractive to your product or service which is ultimately relies on the content, design, color of the poster.",
-      "Topics are Cloud Computing, Artificial Intelligence, Internet of Things, 5G Networking, Blockchain, Project Presentation, and Other new Technologies",
-      "Two members allowed for a Team"
     ],
   },
   {
