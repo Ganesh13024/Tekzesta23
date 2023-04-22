@@ -22,7 +22,7 @@ const App = () => {
         <About />
         <Experience />
         <Experience2 />
-        {!isMobile && <Tech />}
+        <Tech />
         <Works />
         <div className='relative z-0'>
           <Contact />

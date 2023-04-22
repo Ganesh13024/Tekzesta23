@@ -22,7 +22,7 @@ const CountdownUnit = tw.div`
 
 const CountdownValue = tw.div`
   font-bold text-xl md:text-2xl mb-1 md:mb-2
-  text-[#b6ff00]
+  text-gray-900
 `;
 
 const CountdownLabel = tw.div`

@@ -58,6 +58,7 @@ const Contact = () => {
               <li>Attendees must follow a set of rules regarding their behavior during the event.</li>
             </ul>
           </label>
+          <hr></hr>
           <button
             type='submit'
             className='bg-tertiary py-3 px-8 rounded-xl outline-none w-fit text-white font-bold shadow-md shadow-primary'

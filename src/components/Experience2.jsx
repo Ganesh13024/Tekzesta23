@@ -38,7 +38,7 @@ const ExperienceCard = ({ experience }) => {
           className='text-secondary text-[16px] font-semibold'
           style={{ margin: 0 }}
         >
-          {experience.time}
+          {experience?.time}
         </p>
       </div>
 
@@ -81,7 +81,7 @@ const Experience2 = () => {
 
         <motion.div variants={textVariant()}>
           <p className={`${styles.sectionSubText} text-center`}>
-            Time Line
+            Topic
           </p>
           <h2 className={`${styles.sectionHeadText} text-center`}>
             Non Technical Events.
